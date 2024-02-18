@@ -1,0 +1,52 @@
+<DOCTYPE html>
+<html>
+<head>
+   <title> HEHE</title>
+   <script type="text/javascript">
+   alert("Hi jewel")
+   alert("I hope you're doing well")
+   alert("here's a little something I made you!")
+   alert("I hope you'll like it!")
+   </script>
+   <style>
+body{
+   background-image:url(https://c.tenor.com/i1rsgMyOFgcAAAAd/cat-cat-love.gif);
+   background-size: cover;
+   background-attachment: fixed;
+}
+.content{
+    background: https://c.tenor.com/i1rsgMyOFgcAAAAd/cat-cat-love.gif;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+    }
+</style>
+   <img src="https://c.tenor.com/3RkBSAwE4xgAAAAj/quby-pentol.gif"/>
+   <p style="color: white"> HI</p>
+   
+   <img src="https://c.tenor.com/ux7RPst0v1MAAAAj/quby-pentol.gif"/>
+   <p style="color: white"> Anong tawag sa ten na sayaw</p>
+   
+   <img src="https://c.tenor.com/Fm3_oNnjUjYAAAAj/line.gif">
+   <p style="pcolor: white""> Edi....</p>
+   
+   <img src="https://c.tenor.com/1UoL-HJFGDAAAAAj/pentol-stiker-pentol.gif">
+   <p style="color: white"">  TENICKLING!</p>
+   
+   <img src="https://c.tenor.com/1bN1lZmbwWcAAAAj/line.gif">
+   <p style="color: white""> HAHAHAHAHAHHAHAHAHAHHAHAHAHAHAHAHAH</p>
+   
+   <img src="https://c.tenor.com/mJ7Tkj3KIn0AAAAj/peach-and.gif">
+   <p style="color: white"">  HAHAHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAH....</p>
+   
+   <img src="https://c.tenor.com/CdliypdvLTEAAAAj/quby-pentol.gif">
+   <p style ="color: white"">TOL....</p>
+   
+   <img src="https://c.tenor.com/tsniEXs1tFkAAAAj/fbcuteboy.gif">
+   <p style ="color: white""> Ano kasi....</p>
+   
+   <img src="https://c.tenor.com/LxggFGxwOjIAAAAj/shy-cat.gif">
+   <h1 style="font-family:Times New Roman">Crush Kita...</h1>
+   
+   </body>
+   </html>
